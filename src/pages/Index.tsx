@@ -119,7 +119,7 @@ const Index = () => {
       </main>
       
       <footer className="py-4 px-6 text-center text-sm text-muted-foreground">
-        Built By Aiden Lim, Allan Wang, Evan Zhou, and Vijay Shrivarshan Vijayaraja.
+        Built By Evan Zhou, Sathvik Haridasu, Vijay Shrivarshan Vijayaraja , Vikky Mutchukota
       </footer>
     </div>
   );
